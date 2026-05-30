@@ -1,129 +1,160 @@
-# Hi, I'm Vaishnavi Yadav 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=220&section=header&text=Vaishnavi%20Yadav&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Finance%20Analyst%20%7C%20Business%20Analytics%20%7C%20CMA%20Candidate&descAlignY=58"/>
 
-## Finance | Business Analytics | CMA Candidate
 
-Passionate about transforming data into meaningful business insights through Finance, Analytics, and Technology.
+![Finance](https://img.shields.io/badge/Finance-Professional-0A66C2)
+![Business Analytics](https://img.shields.io/badge/Business-Analytics-blue)
+![US CMA](https://img.shields.io/badge/US%20CMA-Candidate-green)
+![Python](https://img.shields.io/badge/Python-Analytics-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
+![Power BI](https://img.shields.io/badge/PowerBI-BusinessIntelligence-F2C811)
 
-I am a BBA (International Finance) graduate with practical experience in Financial Analysis, Business Intelligence, Data Analytics, and Business Strategy. My goal is to build a career at the intersection of Finance, Analytics, and Decision-Making while continuously enhancing my technical and financial expertise.
+# Vaishnavi Yadav
+
+### Finance Analyst | Business Analytics | CMA Candidate
+
+📍 Lucknow, India  
+📧 vaishnaviyadav1307@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/vaishnavi-yadav1307  
+🌐 Portfolio: https://nebulous-scapula-b5b.notion.site/Vaishnavi-Yadav-Finance-Analytics-Portfolio-541b86bad63c4cebb867fac92d1850f9  
+💻 GitHub: https://github.com/vaishnaviyadav10
 
 ---
 
 ## About Me
 
-🎓 BBA (International Finance)
+I am a BBA (International Finance) graduate with a strong interest in Financial Analysis, Corporate Finance, Business Intelligence, Investment Banking, and Data Analytics.
 
-📊 Interested in:
+My academic and project experience combines finance, analytics, and technology to solve business problems through data-driven decision-making. I am currently pursuing the US CMA qualification while continuously building expertise in financial reporting, business analytics, dashboard development, and strategic analysis.
+
+---
+
+## Areas of Interest
+
 - Financial Analysis
 - Corporate Finance
 - Investment Banking
-- Business Intelligence
-- Data Analytics
+- Business Analytics
 - Financial Modelling
-
-📚 Currently Pursuing:
-- US CMA
-- Advanced Finance & Analytics Projects
-
-🌍 Career Goal:
-To contribute to global organizations by combining finance knowledge with analytical and data-driven decision-making skills.
+- Business Intelligence
+- Data Visualization
+- Strategic Decision Making
 
 ---
 
 ## Technical Skills
 
 ### Finance
+
 - Financial Statement Analysis
 - Ratio Analysis
 - Budgeting & Forecasting
 - Cost Management
-- Financial Reporting
 - Corporate Finance
+- Financial Reporting
 
 ### Analytics
-- Data Analysis
+
 - Exploratory Data Analysis (EDA)
 - Predictive Analytics
 - Dashboard Development
 - Business Intelligence
+- Data Visualization
 
 ### Tools & Technologies
 
-| Category | Tools |
-|-----------|--------|
-| Analytics | Python, Pandas, NumPy |
-| Visualization | Tableau, Power BI, Matplotlib |
-| Database | SQL |
-| Finance | Tally ERP, Financial Modelling |
-| Productivity | Microsoft Excel, PowerPoint, Word |
+- Microsoft Excel
+- Tableau
+- Power BI
+- Python
+- Pandas
+- NumPy
+- SQL
+- Tally ERP
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### 📈 Predictive Analytics – Fatal Car Crash Analysis
+## Predictive Analytics – Fatal Car Crash Analysis
 
-**Objective**
-Analyze factors contributing to fatal car crashes and develop predictive insights using Machine Learning.
+Developed a predictive analytics model to identify factors contributing to fatal car crashes using machine learning and statistical analysis.
 
-**Key Highlights**
-- Data Cleaning & Preparation
+### Key Highlights
+
+- Data Cleaning & Transformation
 - Exploratory Data Analysis
 - Linear Regression Modelling
-- Feature Correlation Analysis
-- Statistical Visualization
+- Correlation Analysis
+- Feature Importance Analysis
+- Business Insight Generation
 
-**Tools Used**
+### Tools Used
+
 Python • Pandas • NumPy • Matplotlib • Scikit-Learn
 
-**Outcome**
-Achieved approximately 87% model accuracy (R² Score) and identified major contributing factors such as speeding and alcohol involvement.
+### Outcome
+
+Achieved approximately 87% model accuracy (R² Score) while identifying key risk indicators such as speeding and alcohol involvement.
 
 ---
 
-### 📊 Tableau Business Intelligence Dashboard
+## Business Intelligence Dashboard
 
-**Objective**
-Create interactive dashboards for business performance monitoring and decision-making.
+Designed interactive Tableau dashboards for business performance monitoring and executive decision-making.
 
-**Key Features**
+### Features
+
 - KPI Tracking
-- Industry Analysis
-- Revenue Insights
+- Revenue Analysis
+- Industry Insights
 - Interactive Filters
-- Executive Dashboard Design
+- Dashboard Storytelling
 
-**Tools Used**
+### Tools
+
 Tableau • Excel
 
 ---
 
-### 📉 Financial Analysis & Reporting
+## Financial Analysis Project
 
-**Objective**
-Analyze financial statements and derive business insights using ratio analysis and reporting techniques.
+Conducted financial statement evaluation and performance assessment using ratio analysis and trend analysis methodologies.
 
-**Key Areas**
+### Focus Areas
+
 - Profitability Analysis
 - Liquidity Analysis
-- Efficiency Ratios
-- Trend Analysis
+- Efficiency Analysis
 - Business Performance Evaluation
 
 ---
 
-### 📋 Data Analytics Job Simulation
+## Professional Experience
 
-**Focus Areas**
-- Data Cleaning
-- Dashboard Creation
-- Business Insights
-- Data Storytelling
-- Visualization Techniques
+### Billing & Accounting Intern
+**Oldmed Healthcare Pvt. Ltd.**
+
+- Assisted billing and accounting operations.
+- Worked with Tally ERP and reporting systems.
+- Supported invoice processing and reconciliation activities.
+- Maintained financial documentation and records.
+- Assisted inventory and stock-related operations.
+
+---
+
+## Community Development Project
+
+### PGVS – Home-Based Nutrition Camps
+
+- Participated in rural community awareness initiatives.
+- Assisted child nutrition and development programs.
+- Supported reporting, documentation, and field activities.
 
 ---
 
 ## Certifications
 
+- US CMA (Pursuing)
 - Investment Banking Job Simulation
 - Data Analytics Job Simulation
 - Tata Data Visualization Program
@@ -133,31 +164,19 @@ Analyze financial statements and derive business insights using ratio analysis a
 
 ---
 
-## Professional Experience
+## Career Vision
 
-### Billing & Accounting Intern
-Oldmed Healthcare Pvt. Ltd.
-
-- Assisted in billing and accounting operations.
-- Worked with Tally ERP and inventory management systems.
-- Performed data reporting and reconciliation activities.
-- Supported invoice processing and financial record maintenance.
+My goal is to build a global career in Finance, Corporate Finance, Business Analytics, Investment Banking, and Financial Decision-Making by combining financial expertise with analytical and technology-driven problem-solving skills.
 
 ---
 
-## GitHub Goals
+## Portfolio
 
-✔ Finance Analytics Projects
+### Finance & Analytics Portfolio
 
-✔ Business Intelligence Dashboards
+Explore my complete portfolio:
 
-✔ Financial Modelling Projects
-
-✔ Python for Finance
-
-✔ Data Visualization Projects
-
-✔ Power BI Dashboards
+🔗 https://nebulous-scapula-b5b.notion.site/Vaishnavi-Yadav-Finance-Analytics-Portfolio-541b86bad63c4cebb867fac92d1850f9
 
 ---
 
@@ -165,10 +184,12 @@ Oldmed Healthcare Pvt. Ltd.
 
 📧 Email: vaishnaviyadav1307@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/vaishnavi-yadav1307
+🔗 LinkedIn:
+https://www.linkedin.com/in/vaishnavi-yadav1307
 
-🌐 GitHub: github.com/vaishnaviyadav10
+💻 GitHub:
+https://github.com/vaishnaviyadav10
 
 ---
 
-### “Turning Financial Data into Strategic Business Decisions.”
+### "Transforming Financial Data into Strategic Business Insights."
